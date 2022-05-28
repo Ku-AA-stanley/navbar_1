@@ -1,7 +1,5 @@
-
-
-   [Turtor]
-   [Turtor]: : https://www.youtube.com/watch?v=MmdKeypSxE8
+ [Turtor](https://www.youtube.com/watch?v=MmdKeypSxE8)
+ - [Turtor](https://www.youtube.com/watch?v=MmdKeypSxE8)
 
 ![](https://i.imgur.com/L3R6Rvt.png)
 
@@ -18,7 +16,6 @@ Examples
 
 Themes
 ---
-- [Dark theme](/theme-dark?both)
-- [Vertical alignment](/theme-vertical-writing?both)
+
 
 ###### tags: `Templates` `Book`
