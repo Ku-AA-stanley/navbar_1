@@ -1,21 +1,13 @@
- [Turtor](https://www.youtube.com/watch?v=MmdKeypSxE8)
- - [Turtor](https://www.youtube.com/watch?v=MmdKeypSxE8)
-
-![](https://i.imgur.com/L3R6Rvt.png)
 
 # https://ngarox.github.io/navbar_1/
-
 View the book with "<i class="fa fa-book fa-fw"></i> Book Mode".
 
-Examples
+Preview
 ---
-- [Book example](/s/book-example)
-- [Slide example](/s/slide-example)
-- [YAML metadata](/s/yaml-metadata)
-- [Features](/s/features)
+![](https://i.imgur.com/L3R6Rvt.png)
 
-Themes
+Turtor
 ---
-
+ [](https://www.youtube.com/watch?v=MmdKeypSxE8)
 
 ###### tags: `Templates` `Book`
